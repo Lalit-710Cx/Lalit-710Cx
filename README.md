@@ -28,8 +28,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/laptop-black?style=for-the-badge&logo=laptop&logoSize=auto">
 </div>
 
-
-
 <!-- ###### QUOTE OF THE DAY ##### -->
 
 <h4 align="left">
@@ -40,6 +38,9 @@
 -->
 
 <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
   
 <!-- ###### END OF QUOTE OF THE DAY ##### -->
 
