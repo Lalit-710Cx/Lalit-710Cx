@@ -21,4 +21,9 @@
 
 ### My Workspace 🖥️
 
-
+<div style="display: flex; justify-content: center;">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA%204060-%230bb814?style=for-the-badge&logo=nvidia&logoColor=black&logoSize=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/RIZON%207%207840HS-%23d90707?style=for-the-badge&logo=amd&logoColor=black&logoSize=auto&labelColor=grey">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LOQ-%23275d96?style=for-the-badge&logo=lenovo&logoColor=cf2f17&logoSize=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/laptop-black?style=for-the-badge&logo=laptop&logoSize=auto">
+</div>
