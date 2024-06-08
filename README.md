@@ -30,17 +30,12 @@
 
 <!-- ###### QUOTE OF THE DAY ##### -->
 
-<h4 align="left">
-<!-- Quote Of The Day --> Fun Fact Of The Day
-</h4>
-<!--
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
--->
 
-<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
-
+<h3 align="left">
+<!-- Quote Of The Day --> My THM ☢️ ☣️
+</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lalit710Cx.png" alt="TryHackMe">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
   
 <!-- ###### END OF QUOTE OF THE DAY ##### -->
 
@@ -86,3 +81,10 @@
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   </p>
+<h4 align="left">
+<!-- Quote Of The Day --> Fun Fact Of The Day
+</h4>
+<!--
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
+-->
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
