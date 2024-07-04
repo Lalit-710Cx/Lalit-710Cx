@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently studying for **Certified Ethical Hacker(CEHv12)**
 
-- 💬 Ask me about **Linux / THM / Windows / Hyprland**
+- 💬 Ask me about **Linux / BASH / Windows / Hyprland / Hardware**
 
 - 🤝 I’m looking for help with **Linux**
 
