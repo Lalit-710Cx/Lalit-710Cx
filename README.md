@@ -34,6 +34,7 @@
 <h3 align="left">
 <!-- Quote Of The Day --> My THM ☢️ ☣️
 </h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lalit710Cx.png" alt="Your Image Badge" />
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
   
 <!-- ###### END OF QUOTE OF THE DAY ##### -->
